@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - -->
 - 📫 How to reach me: paula.d3v@gmail.com
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/www.linkedin.com/in/pauladev/">LinkedIn</a>
+- 💼 Connecting and sharing professional updates on <a href="www.linkedin.com/in/pauladev/">LinkedIn</a>
 - 😄 Pronouns: She/her
 <!--
 - ⚡ Fun fact: ...
