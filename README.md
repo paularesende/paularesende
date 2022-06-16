@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working with Django and Python
-- 🌱 I’m currently learning AWS and DevOps core concepts
 - 💬 I have experience working with Ruby on Rails, HTML, JS, Git, SQL
 <!--
 - 👯 I’m looking to collaborate on ...
